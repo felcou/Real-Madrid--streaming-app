@@ -1,0 +1,21 @@
+{
+  "name": "Real Madrid Streaming & Infos",
+  "short_name": "RM Streaming",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d4af37",
+  "description": "Application de streaming et actualités pour les fans du Real Madrid.",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
